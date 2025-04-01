@@ -1,0 +1,1 @@
+These projects highlight my ability to work with complex datasets, applying Machine Learning algorithms to extract meaningful business insights. My skills in exploratory data analysis, feature engineering, and data visualization enables me to transform raw data into actionable intelligence.
